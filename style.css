@@ -40,7 +40,7 @@ body {
     transform-origin: left;
     background-image: linear-gradient(to right, #539bdb, #3250bf);
     border-radius: inherit;
-    animation: load .3s 0.25s linear forwards;
+    animation: load 3s 0.25s linear forwards;
 }
 
 @keyframes fade-in {
